@@ -1,7 +1,7 @@
 
 app_name = "wallet_engine"
 app_title = "Wallet Engine"
-app_publisher = "Abdullah & ChatGPT"
+app_publisher = "Abdullah "
 app_description = "ERPNext Wallet Engine"
 app_email = "noreply@example.com"
 app_license = "MIT"
